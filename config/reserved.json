@@ -36,5 +36,7 @@
 
   "name",
   "redirect_uri",
-  "profile_url"
+  "profile_url",
+  "issuer",
+  "kid"
 ]
