@@ -6,6 +6,8 @@
   "scope_delimiter",
   "token_endpoint_auth_method",
   "token_endpoint_auth_signing_alg",
+  "pushed_authorization_request_endpoint",
+  "require_pushed_authorization_requests",
 
   "origin",
   "prefix",
